@@ -33,13 +33,13 @@ export default function Navbar({ light, dark }) {
         <a href="https://github.com/ahmad-ihsan" target="_blank" rel="noreferrer" className="text-zinc-600 dark:text-zinc-400 hover:text-white">
           <FaGithub className="w-5 h-5" />
         </a>
-        <a href="https://linkedin.com/in/ahmad-ihsan" target="_blank" rel="noreferrer" className="text-zinc-600 dark:text-zinc-400 hover:text-blue-600">
+        <a href="https://linkedin.com/in/ahmadiihsan" target="_blank" rel="noreferrer" className="text-zinc-600 dark:text-zinc-400 hover:text-blue-600">
           <FaLinkedin className="w-5 h-5" />
         </a>
-        <a href="https://wa.me/6281234567890" target="_blank" rel="noreferrer" className="text-zinc-600 dark:text-zinc-400 hover:text-green-500">
+        <a href="https://wa.me/6285282677371" target="_blank" rel="noreferrer" className="text-zinc-600 dark:text-zinc-400 hover:text-green-500">
           <FaWhatsapp className="w-5 h-5" />
         </a>
-        <a href="mailto:email@example.com" className="text-zinc-600 dark:text-zinc-400 hover:text-fuchsia-600">
+        <a href="mailto:ahmaddiihsann@gmail.com" className="text-zinc-600 dark:text-zinc-400 hover:text-fuchsia-600">
           <EnvelopeIcon className="w-5 h-5" />
         </a>
         
