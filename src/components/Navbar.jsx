@@ -30,7 +30,7 @@ export default function Navbar({ light, dark }) {
 
       {/* KANAN (Socials & Theme) */}
       <div className="flex items-center gap-5">
-        <a href="https://github.com/ahmad-ihsan" target="_blank" rel="noreferrer" className="text-zinc-600 dark:text-zinc-400 hover:text-white">
+        <a href="https://github.com/Ahmadihsan3" target="_blank" rel="noreferrer" className="text-zinc-600 dark:text-zinc-400 hover:text-white">
           <FaGithub className="w-5 h-5" />
         </a>
         <a href="https://linkedin.com/in/ahmadiihsan" target="_blank" rel="noreferrer" className="text-zinc-600 dark:text-zinc-400 hover:text-blue-600">
